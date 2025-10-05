@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bara  
 
 🎯 **Junior Machine Learning Engineer at [iO Health](https://iohealth.com)**  
-💻 Passionate about **AI, Machine Learning, and Backend Development**  
+💻 Passionate about **AI, Machine Learning, and Web Development**  
 🌍 Based in Palestine  
 
 ---
