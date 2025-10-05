@@ -16,10 +16,9 @@ For a complete overview of my previous projects and open-source contributions, c
 
 ## 🔧 Skills & Tools
 - **Machine Learning & AI**: PyTorch, TensorFlow, Scikit-learn, NLP, RAG Systems  
-- **Backend Development**: Node.js, .NET Core, Django, Flask  
-- **Databases**: SQL Server, MongoDB, Snowflake  
-- **Cloud & DevOps**: Docker, Kubernetes, Ray, HPC, Azure, AWS  
-- **Cybersecurity**: Red Teaming, Penetration Testing, SIEM, Threat Detection  
+- **Web Development**: Node.js, Spring Boot, NestJS, Flask, ReactJS, NextJS  
+- **Databases**: SQL Server, MongoDB, PostgreSQL, SQLite  
+- **Cloud & DevOps**: Docker, Kubernetes, Azure, AWS  
 
 ---
 
