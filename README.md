@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Bara  
 
-<!--
-**baraalsedih2025/baraalsedih2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Junior Machine Learning Engineer at [iO Health](https://iohealth.com)**  
+💻 Passionate about **AI, Machine Learning, and Backend Development**  
+🌍 Based in Palestine  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Portfolio Overview
+This account is dedicated to my work at **iO Health**.  
+For a complete overview of my previous projects and open-source contributions, check my main GitHub profile:
+
+👉 [**Main Portfolio (Personal GitHub)**](https://github.com/baraalsedih)
+
+---
+
+## 🔧 Skills & Tools
+- **Machine Learning & AI**: PyTorch, TensorFlow, Scikit-learn, NLP, RAG Systems  
+- **Backend Development**: Node.js, .NET Core, Django, Flask  
+- **Databases**: SQL Server, MongoDB, Snowflake  
+- **Cloud & DevOps**: Docker, Kubernetes, Ray, HPC, Azure, AWS  
+- **Cybersecurity**: Red Teaming, Penetration Testing, SIEM, Threat Detection  
+
+---
+
+## 🚀 Highlighted Projects
+- 🧠 **[Rafeeq](#)** – Llama-based fine-tuned mental-health chatbot  
+- ⚡ **[Sumod](#)** – Renewable energy consumption tracker (Hackathon winner)  
+- 📊 **[Unsupervised Demographic Clustering](#)** – Customer segmentation using PCA & KMeans  
+
+---
+
+## 📫 Let’s Connect
+- 🌐 [LinkedIn](https://linkedin.com/in/bara-alsedih)  
+- 📧 baraalsedih2025@iohealth.com  
