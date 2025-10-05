@@ -17,7 +17,7 @@ For a complete overview of my previous projects and open-source contributions, c
 ## 🔧 Skills & Tools
 - **Machine Learning & AI**: PyTorch, TensorFlow, Scikit-learn, NLP, RAG Systems  
 - **Web Development**: Node.js, Spring Boot, NestJS, Flask, ReactJS, NextJS  
-- **Databases**: SQL Server, MongoDB, PostgreSQL, SQLite  
+- **Databases**: MySQL, MongoDB, PostgreSQL, SQLite  
 - **Cloud & DevOps**: Docker, Kubernetes, Azure, AWS  
 
 ---
