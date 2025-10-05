@@ -22,13 +22,6 @@ For a complete overview of my previous projects and open-source contributions, c
 
 ---
 
-## 🚀 Highlighted Projects
-- 🧠 **[Rafeeq](#)** – Llama-based fine-tuned mental-health chatbot  
-- ⚡ **[Sumod](#)** – Renewable energy consumption tracker (Hackathon winner)  
-- 📊 **[Unsupervised Demographic Clustering](#)** – Customer segmentation using PCA & KMeans  
-
----
-
 ## 📫 Let’s Connect
 - 🌐 [LinkedIn](https://linkedin.com/in/bara-alsedih)  
 - 📧 baraalsedih2025@iohealth.com  
